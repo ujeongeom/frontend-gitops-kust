@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: ghcr.io/kt-cloudnative/vue_crud_security
-  newTag: "v3"
+  newTag: "20240206233917"
