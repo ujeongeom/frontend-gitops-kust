@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: ghcr.io/shclub/vue3
+        image: ghcr.io/kt-cloudnative/vue_crud_security
         imagePullPolicy: Always
         env:
           - name: BACKEND_API_URL
