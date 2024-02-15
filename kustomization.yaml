@@ -6,3 +6,5 @@ resources:
 images:
 - name: ghcr.io/kt-cloudnative/vue_crud_security
   newTag: "20240206233917"
+- name: ghcr.io/ujeongeom/vue_crud_security
+  newTag: "20240215050301"
